@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795995871077",
+    "project_id": "letsridetoday-cdd4a",
+    "storage_bucket": "letsridetoday-cdd4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795995871077:android:d6574710a3108d4a93b38c",
+        "android_client_info": {
+          "package_name": "com.letsride.today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795995871077-tso98tb4tmbsp5nj3c4jp2vf46lli21t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8E6iSYUDSDRRj6lde7-QMVZ5EeNnbFTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795995871077-tso98tb4tmbsp5nj3c4jp2vf46lli21t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
